@@ -1,0 +1,14 @@
+D:\visual\repos\PrintApp2\bin\Debug\PrintApp2.exe.config
+D:\visual\repos\PrintApp2\bin\Debug\PrintApp2.exe
+D:\visual\repos\PrintApp2\bin\Debug\PrintApp2.pdb
+D:\visual\repos\PrintApp2\bin\Debug\Newtonsoft.Json.dll
+D:\visual\repos\PrintApp2\bin\Debug\Receipt.dll
+D:\visual\repos\PrintApp2\bin\Debug\System.Drawing.Common.dll
+D:\visual\repos\PrintApp2\bin\Debug\Newtonsoft.Json.xml
+D:\visual\repos\PrintApp2\bin\Debug\System.Drawing.Common.xml
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.AssemblyReference.cache
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.SuggestedBindingRedirects.cache
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CoreCompileInputs.cache
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CopyComplete
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.exe
+D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.pdb
