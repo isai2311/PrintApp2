@@ -5,6 +5,7 @@ using System.Collections.Generic;
 public class Tickets
 {
     public int cTicketFolio { get; set; }
+    public int cTicketFactura { get; set; }
     public int cTicketCliente { get; set; }
     public object cTicketClienteID { get; set; }
     public string cTicketNombre { get; set; }
@@ -41,5 +42,5 @@ public class Tickets
     public decimal SaldoInvoice { get; set; }
     public List<Detalles> details { get; set; }
     public DateTime created_at { get; set; }
-    
+
 }

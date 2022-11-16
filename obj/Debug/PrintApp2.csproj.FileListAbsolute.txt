@@ -12,3 +12,16 @@ D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CoreCompileInputs.cache
 D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CopyComplete
 D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.exe
 D:\visual\repos\PrintApp2\obj\Debug\PrintApp2.pdb
+C:\repos\PrintApp2\bin\Debug\PrintApp2.exe.config
+C:\repos\PrintApp2\bin\Debug\PrintApp2.exe
+C:\repos\PrintApp2\bin\Debug\PrintApp2.pdb
+C:\repos\PrintApp2\bin\Debug\Newtonsoft.Json.dll
+C:\repos\PrintApp2\bin\Debug\System.Drawing.Common.dll
+C:\repos\PrintApp2\bin\Debug\Newtonsoft.Json.xml
+C:\repos\PrintApp2\bin\Debug\System.Drawing.Common.xml
+C:\repos\PrintApp2\obj\Debug\PrintApp2.csproj.AssemblyReference.cache
+C:\repos\PrintApp2\obj\Debug\PrintApp2.csproj.SuggestedBindingRedirects.cache
+C:\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CoreCompileInputs.cache
+C:\repos\PrintApp2\obj\Debug\PrintApp2.csproj.CopyComplete
+C:\repos\PrintApp2\obj\Debug\PrintApp2.exe
+C:\repos\PrintApp2\obj\Debug\PrintApp2.pdb

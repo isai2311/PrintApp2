@@ -25,7 +25,7 @@ namespace PrintApp2
                 Empresas empresa = JsonConvert.DeserializeObject<Empresas>(parts[2]);
                 FuncionesGenerales fn1 = new FuncionesGenerales();
                 fn1.ImprimirArchivo(fn1.GeneraTicket(empresa, detalle, ticket), printerName, empresa.cEmpresaLogo,
-                    "Ticket " + ticket.cTicketFolio.ToString());
+                    "Ticket " + ticket.cTicketFactura.ToString());
             }
             catch (Exception ex)
             {

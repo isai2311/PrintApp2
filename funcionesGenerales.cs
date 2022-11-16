@@ -305,7 +305,7 @@ namespace PrintApp2
             writer.WriteLine(ajustaTexto(Separador, columnas, "I", true));
             writer.WriteLine(ajustaTexto("", columnas, "I", true));
 
-            writer.WriteLine(ajustaTexto("TICKET # " + Ticket.cTicketFolio.ToString(), columnas, "I", true));
+            writer.WriteLine(ajustaTexto("TICKET # " + Ticket.cTicketFactura.ToString(), columnas, "I", true));
             //writer.WriteLine(ajustaTexto("ATENDIO: " + Ticket.responsable, columnas, "I", true));
             writer.WriteLine(ajustaTexto("CLIENTE: " + Ticket.cTicketNombre, columnas, "I", true));
             writer.WriteLine(ajustaTexto("FECHA: " + Ticket.created_at.ToString("dd/MM/yyyy HH:mm:ss"),
@@ -327,6 +327,8 @@ namespace PrintApp2
                 decimal subtotal = Convert.ToDecimal(Detalle[i].cTicketDetalleSubtotal);
                 writer.WriteLine(ajustaTexto(cantidad.ToString() +" "+ codigo, columnas / 2, "I", true)
                 + ajustaTexto(string.Format(MONEY_FORMAT, subtotal), columnas / 2, "D", true));
+                writer.WriteLine(ajustaTexto("", columnas, "I", true));
+
             }
             writer.WriteLine(ajustaTexto("", columnas, "I", true));
             writer.WriteLine(ajustaTexto(Separador, columnas, "I", true));
