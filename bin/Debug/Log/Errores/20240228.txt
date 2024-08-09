@@ -1,0 +1,10 @@
+18:16:04  Imposible imprimir el ticket
+System.Drawing.Printing.InvalidPrinterException: La configuración para obtener acceso a la impresora 'EPSON1' no es válida.
+   en System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   en System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal()
+   en System.Drawing.Printing.PrinterSettings.GetHdevmode(PageSettings pageSettings)
+   en System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   en System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   en System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   en System.Drawing.Printing.PrintDocument.Print()
+   en PrintApp2.FuncionesGenerales.ImprimirArchivo(String Archivo, String Impresora, String Logo, String Descripcion) en C:\laragon\www\PrintApp2\funcionesGenerales.cs:línea 387

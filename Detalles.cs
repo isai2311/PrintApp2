@@ -19,7 +19,6 @@
         public int cTicketDetalleProcesado { get; set; }
         public object cTicketDetalleCantidadProcesada { get; set; }
         public int cTicketDetalleCantidadPedido { get; set; }
-        public int cTicketDetalleUnidadMedida { get; set; }
         public object cTicketDetalleCategoriaPrecio { get; set; }
         public decimal PrecioTotalFactura { get; set; }
         public Producto producto { get; set; }

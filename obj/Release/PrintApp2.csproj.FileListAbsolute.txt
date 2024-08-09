@@ -1,0 +1,14 @@
+C:\laragon\www\PrintApp2\bin\Release\Receipt.dll
+C:\laragon\www\PrintApp2\bin\Release\PrintApp2.exe.config
+C:\laragon\www\PrintApp2\bin\Release\PrintApp2.exe
+C:\laragon\www\PrintApp2\bin\Release\PrintApp2.pdb
+C:\laragon\www\PrintApp2\bin\Release\Newtonsoft.Json.dll
+C:\laragon\www\PrintApp2\bin\Release\System.Drawing.Common.dll
+C:\laragon\www\PrintApp2\bin\Release\Newtonsoft.Json.xml
+C:\laragon\www\PrintApp2\bin\Release\System.Drawing.Common.xml
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.csproj.AssemblyReference.cache
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.csproj.SuggestedBindingRedirects.cache
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.csproj.CoreCompileInputs.cache
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.csproj.CopyComplete
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.exe
+C:\laragon\www\PrintApp2\obj\Release\PrintApp2.pdb

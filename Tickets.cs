@@ -43,4 +43,6 @@ public class Tickets
     public List<Detalles> details { get; set; }
     public DateTime created_at { get; set; }
 
+    public int consecutivo { get; set; }
+
 }

@@ -273,8 +273,8 @@ namespace PrintApp2
             string letra = "Lucida Console";
             float size = 10;
             string mensaje1 = "GRACIAS POR SU COMPRA!!";
-            string mensaje2 = "TODA DEVOLUCION CAUSARA UN CARGO DESPUES DE 2 DIAS";
-            string mensaje3 = "NO CARGAR BOMBAS ACEITE CON LUBRIPL";
+            string mensaje2 = "";
+            string mensaje3 = "";
             FontStyle estilo = FontStyle.Bold;
 
             string rootFolder = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
@@ -305,7 +305,7 @@ namespace PrintApp2
             writer.WriteLine(ajustaTexto(Separador, columnas, "I", true));
             writer.WriteLine(ajustaTexto("", columnas, "I", true));
 
-            writer.WriteLine(ajustaTexto("TICKET # " + Ticket.cTicketFactura.ToString(), columnas, "I", true));
+            writer.WriteLine(ajustaTexto("TICKET # " + Ticket.consecutivo.ToString(), columnas, "I", true));
             //writer.WriteLine(ajustaTexto("ATENDIO: " + Ticket.responsable, columnas, "I", true));
             writer.WriteLine(ajustaTexto("CLIENTE: " + Ticket.cTicketNombre, columnas, "I", true));
             writer.WriteLine(ajustaTexto("FECHA: " + Ticket.created_at.ToString("dd/MM/yyyy HH:mm:ss"),
